@@ -2,9 +2,9 @@ name: Deploy SPA to AWS S3 as a static site
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   all:
