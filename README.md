@@ -1,3 +1,5 @@
+NOTE: This app is deployed using custom github action directly to S3 as a SPA
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
