@@ -3,6 +3,10 @@ NOTE: This app is deployed using custom github action directly to S3 as a SPA.
 the react app checks for anything after "#!/" and adds that to the URL so that
 the react-router-dom can navigate to that page directly.
 
+Check the output in below URLS:
+1. http://staticpage-react-spa-websitebucket75c24d94-1octohrd0r4um.s3-website-us-east-1.amazonaws.com/  -> goes to "home" page in SPA
+2. http://staticpage-react-spa-websitebucket75c24d94-1octohrd0r4um.s3-website-us-east-1.amazonaws.com/users -> goes to "users" page in SPA
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
