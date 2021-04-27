@@ -1,4 +1,4 @@
-NOTE: This app is deployed using custom github action directly to S3 as a SPA
+NOTE: This app is deployed using custom github action directly to S3 as a SPA. Also 404 routing is handled as well 
 
 # Getting Started with Create React App
 
