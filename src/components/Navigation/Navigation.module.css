@@ -1,0 +1,21 @@
+.nav-container {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    background-color: gray;
+}
+
+.nav-container__navigation-link {
+    text-decoration: none;
+    margin: 0 1rem;
+    color: #f3ededb8;
+    background-color: #44413e;
+    padding: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.active-nav {
+    color: #000000a3;
+    background-color: #b3e3f3;
+}
