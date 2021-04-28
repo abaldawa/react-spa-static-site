@@ -6,3 +6,6 @@ the react-router-dom can navigate to that page directly.
 Check the output in below URLS:
 1. http://staticpage-react-spa-websitebucket75c24d94-1octohrd0r4um.s3-website-us-east-1.amazonaws.com/  -> goes to "home" page in SPA
 2. http://staticpage-react-spa-websitebucket75c24d94-1octohrd0r4um.s3-website-us-east-1.amazonaws.com/users -> goes to "users" page in SPA
+
+
+Also, this app was created using CRA and "react-router-dom" is used for routing in SPA.
