@@ -1,4 +1,4 @@
-NOTE: This app is deployed using custom github action directly to S3 as a SPA.
+NOTE: This app is deployed using custom github action directly to S3 as an SPA.
 404 routing error is returned from AWS S3 as "#!/" prefixed to the URL and 
 the react app checks for anything after "#!/" and adds that to the URL so that
 the react-router-dom can navigate to that page directly.
